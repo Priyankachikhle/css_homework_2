@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    
+    width: 72vw;
+    margin: 20px 250px 100px 250px;
+    height: 100vh;
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.card_1{
+    height: 50vh;
+  
+   
+    width: 72vw;
+}
+.card_2{
+    height: 55vh;
+    display: inline-block;
+    width: 72vw;
+    
+
+}
+.card_21{
+    line-height: 20px;
+    width: 36vw;
+    float: left;
+    background-color:#0EBFE9;	
+    height: 55vh;
+   
+}
+.card_22{
+    width: 36vw;
+    float: left;
+    background-color: #63D1F4;
+    height: 55vh;
+}
+
+#a{
+    color: #0EBFE9;
+    padding: 50px 0px 20px 100px;
+    font-size: 25px;
+    letter-spacing: 0.08em;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+#b{
+    color: greenyellow;
+    padding: 10px 0px 20px 100px;
+    font-size: 25px;
+    font-family: 'Maven Pro', sans-serif;
+    letter-spacing: 0.05em;
+}
+#c{
+    color: #C2C2C2;
+    padding: 10px 0px 10px 100px;
+    font-size: 25px;
+    line-height:35px;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+#d{
+    color: white;
+    padding: 70px 50px 0px 100px;
+    font-size: 25px;
+    line-height: 10px;
+    font-family: 'Maven Pro', sans-serif;
+    letter-spacing: 0.05em;
+}
+
+#e{
+    color: 	#F0F8FF;
+    padding: 50px 50px 0px 100px;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 10px;
+    font-family: 'Maven Pro', sans-serif;
+    letter-spacing: 0.05em;
+}
+
+.card_21 h3{
+    color: white;
+    padding: 50px 50px 20px 100px;
+    font-size: 25px;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.card_22 h2{
+    color: #f8f4f4;
+    padding: 50px 0px 0px 80px;
+    font-size: 30px;
+    letter-spacing: 0.05em;
+    font-family: 'Lato', sans-serif;
+}
+
+pre {
+    color:#E0EEEE;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    white-space: pre-line;
+    font-family: 'Lato', sans-serif;
+    line-height: 35px;   
+    letter-spacing: 0.05em;
+}
+
+.card_22 p{
+    padding: 20px 0px 10px 80px;
+}
+
+button{
+    display: inline-block;
+    padding: 20px;
+    width: 70%;
+    margin-top: 25px;
+    margin-left: 100px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: greenyellow;
+    font-family: 'Fraunces', serif;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.add{
+    color: #EBEBEB	;
+    font-size: 17px;
+    margin-left: 10px;
+    text-align: center;
+    line-height: 40px;
+}
